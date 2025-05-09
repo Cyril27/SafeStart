@@ -11,4 +11,4 @@ The repository contains all the Python code needed to process the data used to c
 **main_pipeline** : Apply the silhouette extraction on a given frame using Method 1/2/3 \
 **plot_skeleton_metric** : Display Jaccard Index and Dice Score for Method 1/2/3\
 **output_video** : Creates the output video withan overlay of the binary mask and the skeleton\
-**plot_method_metric** :Display skeleton metrics to compare methods 1 and 2\
+**plot_method_metric** :Display skeleton metrics to compare methods 1 and 2
